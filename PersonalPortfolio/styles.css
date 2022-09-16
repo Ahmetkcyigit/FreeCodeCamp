@@ -1,0 +1,10 @@
+#navbar {
+    position: absolute;
+    top: 0;
+}
+
+@media (max-width: 500px) {
+    body {
+        background-color: green;
+    }
+}
